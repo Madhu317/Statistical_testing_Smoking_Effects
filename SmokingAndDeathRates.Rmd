@@ -1,6 +1,6 @@
 ---
 title: "SmokingAnalysis"
-author: "Deepti"
+author: "Madhu"
 date: "November 15, 2018"
 output:
   word_document: default
